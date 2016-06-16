@@ -32,3 +32,20 @@ body {
   margin: 0 auto;
   width: 940px;
 } 
+
+/* 3.12 */
+header {
+  position: relative;
+}
+
+.menu-opcoes {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.sacola {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
