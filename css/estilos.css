@@ -18,3 +18,17 @@ body {
 .menu-opcoes a {
    color: #003366;
 }
+
+.menu-opcoes ul li {
+  display: inline;
+  margin-left: 20px;
+}
+
+.sacola {
+  padding-top: 8px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 940px;
+} 
